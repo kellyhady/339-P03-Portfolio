@@ -10,7 +10,39 @@ a.image {
   background-color: grey;
 } */
 
+/* HERO */
+.hero-text {
+  display: flex;
+  justify-content: center;
+}
+/*END HERO*/
+
+.container {
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.section {
+  background-color: #fff;
+  padding: 1em;
+}
+
+.section .block h2 {
+  text-align: center;
+}
+
+.section .block p {
+  text-align: center;
+}
+
+.style-guide-heading {
+  text-align: center;
+}
+
 ul {
+  text-decoration: none;
   font-size: 1em;
 }
 
@@ -55,7 +87,6 @@ code {
   color: grey;
   background-color: #d6d6d6;
 }
-
 /* END OF TEXT ELEMENTS */
 
 /* TYPOGRAPHY */
