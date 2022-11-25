@@ -1,18 +1,73 @@
-.nav-bar {
-  background-color: grey; /*change later*/
-  padding: 1em;
+a.image {
+  display: flex;
+  margin: 10px 10px;
+  opacity: 1;
+  width: 360px;
+  height: 360px;
 }
+
+/* .nav-bar {
+  background-color: grey;
+} */
 
 ul {
   font-size: 1em;
 }
 
+/* TEXT ELEMENTS */
+h1 {
+  font-family: "GT Walsheim Pro Black", sans-serif;
+  font-style: normal;
+  font-size: 3em;
+}
+
 h2 {
   font-family: "GT Walsheim Pro Bold", sans-serif;
   font-style: normal;
+  font-size: 2em;
 }
 
 h3 {
   font-family: "GT Walsheim Pro Medium", sans-serif;
   font-style: normal;
+  font-size: 1em;
+}
+
+h4 {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-size: 13px;
+}
+
+p {
+  font-family: "Canela", serif;
+  font-style: normal;
+  font-size: 12px;
+}
+
+code {
+  display: block;
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  font-size: 12px;
+  padding: 10px;
+  margin: 1em;
+  color: grey;
+  background-color: #d6d6d6;
+}
+
+/* END OF TEXT ELEMENTS */
+
+/* TYPOGRAPHY */
+p.gt-walsheim {
+  font-family: "GT Walsheim Pro Regular", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 250%;
+}
+
+p.canela {
+  font-family: "Canela", serif;
+  font-style: normal;
+  font-size: 100%;
 }
