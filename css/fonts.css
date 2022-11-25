@@ -1,0 +1,29 @@
+/* FONTS */
+
+@font-face {
+  font-family: "Canela";
+  font-weight: normal;
+  font-style: normal;
+  src: url("fonts/Canela-Regular.ttf");
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro Regular";
+  font-weight: normal;
+  font-style: normal;
+  src: url("fonts/GTWalsheimPro-Regular.ttf");
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro Bold";
+  font-weight: bold;
+  font-style: normal;
+  src: url("fonts/GTWalsheimPro-Bold.ttf");
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro Medium";
+  font-weight: medium;
+  font-style: normal;
+  src: url("fonts/GTWalsheimPro-Medium.ttf");
+}
