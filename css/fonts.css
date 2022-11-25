@@ -15,6 +15,13 @@
 }
 
 @font-face {
+  font-family: "GT Walsheim Pro Medium";
+  font-weight: medium;
+  font-style: normal;
+  src: url("fonts/GTWalsheimPro-Medium.ttf");
+}
+
+@font-face {
   font-family: "GT Walsheim Pro Bold";
   font-weight: bold;
   font-style: normal;
@@ -22,8 +29,8 @@
 }
 
 @font-face {
-  font-family: "GT Walsheim Pro Medium";
-  font-weight: medium;
+  font-family: "GT Walsheim Pro Black";
+  font-weight: bold;
   font-style: normal;
-  src: url("fonts/GTWalsheimPro-Medium.ttf");
+  src: url("fonts/GTWalsheimPro-Black.ttf");
 }
